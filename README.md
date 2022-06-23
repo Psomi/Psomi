@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Psomi
 - 👀 I’m interested in SW
-- 🌱 I’m currently learning Front-end, Artifical Intelligence, Data Science
+- 🌱 I’m currently learning Machine Learning, Artifical Intelligence, Data Science
 - 💞️ I’m looking to collaborate on AI field
 - 📫 How to reach me somi7979@gmail.com
 
